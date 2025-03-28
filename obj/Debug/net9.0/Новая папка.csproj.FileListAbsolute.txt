@@ -1,0 +1,39 @@
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+D:\Public\Новая папка\bin\Debug\net9.0\Новая папка.exe
+D:\Public\Новая папка\bin\Debug\net9.0\Новая папка.deps.json
+D:\Public\Новая папка\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+D:\Public\Новая папка\bin\Debug\net9.0\Новая папка.dll
+D:\Public\Новая папка\bin\Debug\net9.0\Новая папка.pdb
+D:\Public\Новая папка\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.csproj.AssemblyReference.cache
+D:\Public\Новая папка\obj\Debug\net9.0\_____ __.F31CC957.Up2Date
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.dll
+D:\Public\Новая папка\obj\Debug\net9.0\refint\Новая папка.dll
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.pdb
+D:\Public\Новая папка\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+D:\Public\Новая папка\obj\Debug\net9.0\ref\Новая папка.dll
+D:\Public\Новая папка\bin\Debug\net9.0\System.Text.Json.dll
+D:\Public\Новая папка\bin\Debug\net9.0\Telegram.Bot.dll
+D:\Public\Task-Reminder\bin\Debug\net9.0\Новая папка.exe
+D:\Public\Task-Reminder\bin\Debug\net9.0\Новая папка.deps.json
+D:\Public\Task-Reminder\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+D:\Public\Task-Reminder\bin\Debug\net9.0\Новая папка.dll
+D:\Public\Task-Reminder\bin\Debug\net9.0\Новая папка.pdb
+D:\Public\Task-Reminder\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Public\Task-Reminder\bin\Debug\net9.0\System.Text.Json.dll
+D:\Public\Task-Reminder\bin\Debug\net9.0\Telegram.Bot.dll
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.csproj.AssemblyReference.cache
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.sourcelink.json
+D:\Public\Task-Reminder\obj\Debug\net9.0\_____ __.F31CC957.Up2Date
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.dll
+D:\Public\Task-Reminder\obj\Debug\net9.0\refint\Новая папка.dll
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.pdb
+D:\Public\Task-Reminder\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+D:\Public\Task-Reminder\obj\Debug\net9.0\ref\Новая папка.dll
